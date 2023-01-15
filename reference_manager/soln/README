@@ -1,0 +1,19 @@
+Name: DIPESH PATEL
+SID:  1722408
+CCID: dipesh1
+CMPUT275, Winter2022
+Weekly Exercise 3
+
+
+included files: ref_manager.cpp
+		ref_manager.h
+		ref_manager.sh
+		we3_test.cpp
+		Makefile
+                README
+ 
+running instructions:
+to run ref_manager.cpp simply navigate through the terminal
+to the directory containing all the files described in the included
+files section and type either make or make all
+

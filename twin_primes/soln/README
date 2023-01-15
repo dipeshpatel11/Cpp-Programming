@@ -1,0 +1,20 @@
+Name: Dipesh Patel
+
+ID: 1722408
+
+CCID: dipesh1
+
+CMPUT275, Winter2022
+
+Weekly Exercise 1 : twin_primes
+
+
+included files: twin_primes.cpp
+		twin_primes.sh
+                README
+ 
+running instructions:
+to run twin_primes.cpp simply navigate through the terminal
+to the directory containing all the files described in the included
+files section and type either make or make all
+
